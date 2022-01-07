@@ -1,5 +1,5 @@
 # flower-growth
-A visual design tool that creates an environment in which users grow flowers.
+A visual design tool that creates an environment in which users grow flowers and maintain a healthy garden.
 
 User controls:
 - LEFT mouse button: plants a seed
