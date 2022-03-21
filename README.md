@@ -1,5 +1,5 @@
-# flower-growth
-A visual design tool that creates an environment in which users grow flowers and maintain a healthy garden.
+# Deadly Garden
+Deadly Garden is a game in which players maintain a healthy garden by planting and growing flowers to prevent the growth and overpopulation of poisonous plants. Deadly Garden was built using Processing.
 
 User controls:
 - LEFT mouse button: plants a seed
